@@ -8,13 +8,13 @@
 - <b>I'm open for any Internship or Freelancing based Job/Project.</b>
 - <b>How to reach me: nisargrbhatt@gmail.com</b>
 - <b>I’m looking to collaborate on any Web/Destop Application Development.
-- <b>[Resume](https://drive.google.com/file/d/1_Y4myPwg6OocnEwkPrfv3noqnNdIkn4o/view?usp=sharing)
+- <b>[Resume](https://drive.google.com/file/d/1tcMLzqVQXTuqe7Cd5TLpAXbxxoHyeef5/view?usp=sharing)
 
 ### Languages and Tools:
 
 <div>
 <code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18594121091536125453-512.png"></code>
-<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18918150961536298172-512.png"></code>
+<!-- <code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18918150961536298172-512.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>

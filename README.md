@@ -8,7 +8,7 @@
 - <b>I'm open for any Internship or Freelancing based Job/Project.</b>
 - <b>How to reach me: nisargrbhatt@gmail.com</b>
 - <b>I’m looking to collaborate on any Web/Destop Application Development.
-- <b>[Resume](https://drive.google.com/file/d/1tcMLzqVQXTuqe7Cd5TLpAXbxxoHyeef5/view?usp=sharing)
+- <b>[Resume](https://drive.google.com/file/d/1HX2gJqTvwF7d1L5-_z_J8B1SV73h_WPn/view?usp=sharing)
 
 ### Languages and Tools:
 

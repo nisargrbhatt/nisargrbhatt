@@ -32,7 +32,7 @@
 
 ### Stats:
 
-<img align="left" alt="Nisarg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nisargrbhatt&show_icons=true&hide_border=true" />
+<img align="left" alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nisargrbhatt&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 

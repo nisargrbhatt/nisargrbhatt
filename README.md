@@ -1,14 +1,13 @@
 ### Hi there 👋, I am [Nisarg!](https://nisargrbhatt.github.io/nisargrbhatt1/)
 
-## I am a Full Stack Web Developer from India<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/17495148971553750387-512.png" width="26px"> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnisargrbhatt%2Fnisargrbhatt&count_bg=%23C03DC8&title_bg=%2339AE53&title=Views&edge_flat=false)
+## I am a Senior Software Engineer from India<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/17495148971553750387-512.png" width="26px"> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnisargrbhatt%2Fnisargrbhatt&count_bg=%23C03DC8&title_bg=%2339AE53&title=Views&edge_flat=false)
 
 ### Talking about Personal Stuffs:
 
-- <b>I'm a currently doing B.E. in Computer Enginnering.</b>
-- <b>I'm open for any Internship or Freelancing based Job/Project.</b>
+- <b>I'm a Senior Software Engineer at OpenXcell</b>
+- <b>Also providing services related to Microservice Architecture, Database Design and Performance. </b>
 - <b>How to reach me: nisargrbhatt@gmail.com</b>
-- <b>I’m looking to collaborate on any Web/Destop Application Development.
-- <b>[Resume](https://drive.google.com/file/d/1ovSrdD7-3IRlUIAxH45QU0UPWgOTtpfQ/view?usp=sharing)
+- <b>I’m looking to collaborate on any Web/Destop Application Development. </b>
 
 ### Languages and Tools:
 

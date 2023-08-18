@@ -1,39 +1,39 @@
-### Hi there 👋, I am [Nisarg!](https://nisargrbhatt.github.io/nisargrbhatt1/)
+### Hi there 👋, I am Nisarg
 
-## I am a Senior Software Engineer from India<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/17495148971553750387-512.png" width="26px"> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnisargrbhatt%2Fnisargrbhatt&count_bg=%23C03DC8&title_bg=%2339AE53&title=Views&edge_flat=false)
+## I am a Senior Software Engineer from India<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/17495148971553750387-512.png" width="26px">
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs
 
-- <b>I'm a Senior Software Engineer at OpenXcell</b>
+- <b>I'm a Senior Software Engineer & Frontend Lead at [Sath Inc.](https://sath.com)</b>
 - <b>Also providing services related to Microservice Architecture, Database Design and Performance. </b>
 - <b>How to reach me: nisargrbhatt@gmail.com</b>
 - <b>I’m looking to collaborate on any Web/Destop Application Development. </b>
 
-### Languages and Tools:
+### Languages and Tools
 
 <div>
-<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18594121091536125453-512.png"></code>
-<!-- <code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18918150961536298172-512.png"></code> -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<!-- <code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18918150961536298172-512.png"></code> -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1888890291551942128-512.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" /></code>
+<code><img height="30" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" /></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud" /></code>
 
 </div>
 
-### Stats:
+### Stats
 
 <img align="left" alt="Nisarg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nisargrbhatt&show_icons=true&hide_border=true" />
 
-### Connect with me:
+### Connect with me
 
 [<code><img height="30" src="https://img.icons8.com/fluent/96/000000/discord-new-logo.png" /></code>][discord]
 
